@@ -1,4 +1,2 @@
 flask
-forms
-flask_login
 gunicorn
